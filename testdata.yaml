@@ -1,0 +1,5 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 3
+login: "testuser-3"
+password: "e699891d29"
